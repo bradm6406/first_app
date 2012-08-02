@@ -20,6 +20,7 @@ group :assets do
   # gem 'therubyracer', :platforms => :ruby
 
   gem 'uglifier', '1.2.3'
+  gem 'railties', '3.2.7'
 end
 
 gem 'jquery-rails', '2.0.0'
